@@ -1,8 +1,28 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  This is my blog made with Zola.
-</h1>
-<p><a href="{{ get_url(path='@/blog/_index.md') }}">Posts</a>.</p>
+<div class="page-home" role="main">
+  <section class="next-meetup">
+    <p class="section-headline">Next Event</p>
+    <article class="event is-next-meetup">
+    </article>
+
+    <h1>
+      We are currently planning our next meetup!
+    </h1>
+    <p>
+      <a href="{{ config.extra.feedback_url }}">
+        Help us!
+      </a>
+    </p>
+  </section>
+
+  <section class="future-meetups">
+    <p class="section-headline">Upcoming Events</p>
+  </section>
+
+  <section class="prev-meetup">
+    <p class="section-headline">Previous Events</p>
+  </section>
+</div>
 {% endblock content %}
