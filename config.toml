@@ -1,5 +1,5 @@
-base_url = "https://rse-rs.github.io"
-title = "rse-rs"
+base_url = "https://rs4rse.github.io"
+title = "Rust for RSE"
 description = "A Research Software Engineer Rust community"
 
 compile_sass = true
@@ -12,7 +12,7 @@ highlight_code = true
 paths_keep_dates = true
 
 [extra]
-feedback_url = "https://rse-rs.github.io/feedback" 
-source_url = "https://github.com/rse-rs/rse-rs.github.io"
+feedback_url = "https://rs4rse.github.io/feedback" 
+source_url = "https://github.com/rs4rse/rs4rse.github.io"
 chat_url = "example.com"
 
