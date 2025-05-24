@@ -1,0 +1,77 @@
+{% macro event(event) %}
+<div itemscope itemtype="http://schema.org/SocialEvent" itemid="{{ event.permalink }}" class="event">
+  <header class="event-header">
+    <h1 class="event-title">
+      {{ macros::event_title(event=event) }}
+    </h1>
+  </header>
+
+  <div class="event-description text" itemprop="description">
+    {{ event.content | safe }}
+  </div>
+
+  <p><em>
+    We're currently looking for talks.
+
+    {% if event.links['Planning discussion on Github'] %}
+      <a href="{{ event.links['Planning discussion on Github'] }}">Help us!</a>
+    {% else %}
+      <a href="{{ config.extra.feedback_url }}">Help us!</a>
+    {% endif %}
+  </em></p>
+</div>
+{% endmacro event %}
+
+{% macro event_inline(event) %}
+<article class="event is-inline" itemscope itemtype="http://schema.org/SocialEvent" itemid="{{ event.permalink }}">
+  <header>
+    <h1 class="event-title">
+      {{ macros::event_title(event=event) }}
+    </h1>
+  </header>
+  {% if event.talks %}
+  <ol class="talk-list is-short">
+    {# include talk-list.html talks=talks show_abstract=false #}
+  </ol>
+  {% endif %}
+</article>
+{% endmacro event_inline %}
+
+{% macro event_title(event) %}
+<a class="event-link" href="{{ event.permalink }}" itemprop="url">
+  <span class="title" itemprop="name">{{ event.title }}</span>
+</a>
+<span class="event-in-space-time">
+  <time datetime="{{ event.date | date(format="%Y-%m-%dT%H:%M:%SZ") }}" itemprop="startDate">
+      <span class="date">{{ macros::pretty_date(date=event.date) }}</span>
+    <span class="time">{{ event.date | date(format="%H:%M %Z") }}</span>
+  </time>
+  <span class="event-location">
+  </span>
+</span>
+{% endmacro event_title %}
+
+{% macro pretty_date(date) %}
+{% set day_raw      = date | date(format="%e") | trim %}   {# 1, 2 … 31 #}
+{% set month_full   = date | date(format="%B") %}          {# April     #}
+{% set month_abbr   = date | date(format="%b") %}          {# Apr       #}
+{% set weekday      = date | date(format="%A") %}          {# Monday    #}
+{% set year         = date | date(format="%Y") %}          {# 2025      #}
+
+{{ weekday }},
+
+{% if month_full in ["April", "May", "June", "July"] %}
+    {{ month_full }}
+{% elif month_full == "September" %}
+    Sept.
+{% else %}
+    {{ month_abbr }}.
+{% endif %}
+
+{% if    day_raw in ["1", "21", "31"] %}{{ day_raw }}st
+{% elif day_raw in ["2", "22"]      %}{{ day_raw }}nd
+{% elif day_raw in ["3", "23"]      %}{{ day_raw }}rd
+{% else %}                             {{ day_raw }}th
+{% endif %}, {{ year }}
+{% endmacro pretty_date %}
+

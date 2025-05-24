@@ -4,7 +4,7 @@ date = 2025-05-20T17:00:00+02:00
 +++
 
 <center>
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://matrix.to/#/">Matrix Chat</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://bit.ly/rs4rse-slack">Slack Chat</a></h2>
 </center>
 
 ---

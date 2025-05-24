@@ -1,28 +1,65 @@
+{% import "macros.html" as macros %}
 {% extends "base.html" %}
-
 {% block content %}
+{% set cur_date = now() %}
+{% set events = get_section(path="_events/_index.md") %}
+{% set curr = now() %}
+{% set past_events = [] %}
+{% set next_events = [] %}
+
+{% for event in events.pages | sort(attribute="date") %}
+  {% if event.date and event.date | date(format="%s") | int < curr | date(format="%s") | int %}
+    {% set_global past_events = past_events | concat(with=[event]) %}
+  {% endif %}
+
+  {% if event.date and event.date | date(format="%s") | int >= curr | date(format="%s") | int %}
+    {% set_global next_events = next_events | concat(with=[event]) %}
+  {% endif %}
+{% endfor %}
+
+{% for event in events.pages %}
+{% endfor %}
+
+{% set prev_event = past_events | last %}
+{% set next_event = next_events | first %}
+
+
 <div class="page-home" role="main">
   <section class="next-meetup">
-    <p class="section-headline">Next Event</p>
+  {% if next_event %}
+    <p class="section-headline">Next</p>
     <article class="event is-next-meetup">
+      {{ macros::event(event=next_event) }}
     </article>
-
+  {% else %}
     <h1>
       We are currently planning our next meetup!
     </h1>
     <p>
-      <a href="{{ config.extra.feedback_url }}">
+      <a href="{{ site.feedback_url }}">
         Help us!
       </a>
     </p>
+  {% endif %}
   </section>
 
-  <section class="future-meetups">
-    <p class="section-headline">Upcoming Events</p>
-  </section>
+  {% if next_events | length > 0 %}
+    <section class="future-meetups">
+      <p class="section-headline">Upcoming</p>
+      {{ macros::event_inline(event=next_events[0]) }}
 
+      {% if next_events | length > 1 %}
+        {{ macros::event_inline(event=next_events[1]) }}
+      {% endif %}
+    </section>
+  {% endif %}
   <section class="prev-meetup">
-    <p class="section-headline">Previous Events</p>
+    {% if prev_event %}
+    <section class="prev-meetup">
+      <p class="section-headline">Previous</p>
+      {{ macros::event_inline(event=prev_event) }}
+    </section>
+    {% endif %}
   </section>
 </div>
 {% endblock content %}

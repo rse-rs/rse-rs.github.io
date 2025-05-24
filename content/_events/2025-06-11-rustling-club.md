@@ -4,7 +4,7 @@ date = 2025-06-11T16:30:00+02:00
 +++
 
 <center>
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://matrix.to/#/">Matrix Chat</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://bit.ly/rs4rse-slack">Slack Chat</a></h2>
 </center>
 
 ---
@@ -35,13 +35,6 @@ Bring your ideas, questions & projects and let's meet.
 Feel free to join and drop out at any point.
 Everyone is invited to join us, no travel necessary.
 
-
-## Matrix instructions
+## Slack instructions
 
 See [Chat instructions](/chat/).
-
-<!-- ## Online meetup instructions -->
-<!---->
-<!-- At [19:00 CET](https://time.is/1900_03_Jul_2025_in_Berlin/UTC/Baltimore/London/Los_Angeles/New_York/Lagos/Sydney/Kuala_Lumpur/Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin). -->
-<!-- It works from the browser and uses your webcam and microphone over WebRTC. -->
-
