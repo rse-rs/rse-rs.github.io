@@ -1,0 +1,12 @@
+@use 'common' as *;
+
+body {
+  background-color: $color-bg;
+  color: $color-fg;
+}
+
+.page-home,
+article.page,
+article.page-event {
+  @extend %row;
+}

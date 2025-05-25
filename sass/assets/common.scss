@@ -1,0 +1,29 @@
+$spacing: 1rem;
+$spacing-small: 0.5rem;
+$spacing-large: 2rem;
+
+$color-fg: #000;
+$color-bg: #fff;
+$color-lo: #ccc;
+$color-ac: #f39c12;
+
+$max-width: 64rem;
+$breakpoint-one-column: 48rem;
+
+@mixin hr($style: solid) {
+  margin-top: $spacing-large;
+  border-top: 1px $style $color-lo;
+  padding-top: $spacing-large;
+}
+
+@mixin label() {
+  padding: ($spacing-small / 2) $spacing-small;
+  margin: 0;
+
+  font-size: 0.75rem; 
+  font-weight: bold;
+  text-transform: uppercase;
+
+  background-color: $color-fg;
+  color: $color-bg;
+}

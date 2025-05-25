@@ -1,5 +1,5 @@
 +++
-title = "Rust Learning Club for RSE"
+title = "Rustling Club"
 date = 2025-05-20T17:00:00+02:00
 +++
 
