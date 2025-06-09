@@ -1,4 +1,10 @@
-on: push
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
 name: Build and deploy GH Pages
 jobs:
   build:
