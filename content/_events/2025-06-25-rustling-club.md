@@ -1,6 +1,6 @@
 +++
 title = "Rustling Club"
-date = 2025-06-11T16:00:00+02:00
+date = 2025-06-25T16:00:00+02:00
 +++
 
 <center>
