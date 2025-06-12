@@ -1,5 +1,5 @@
 +++
-title = "Rustling Club (beginners friendly)"
+title = "Rustling Club (beginner friendly)"
 date = 2025-06-18T16:00:00+02:00
 +++
 

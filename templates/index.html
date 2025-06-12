@@ -53,13 +53,13 @@
       {% endif %}
     </section>
   {% endif %}
+
+  {% if prev_event %}
   <section class="prev-meetup">
-    {% if prev_event %}
-    <section class="prev-meetup">
-      <p class="section-headline">Previous</p>
-      {{ macros::event_inline(event=prev_event) }}
-    </section>
-    {% endif %}
+    <p class="section-headline">Previous</p>
+    {{ macros::event_inline(event=prev_event) }}
   </section>
+  {% endif %}
+
 </div>
 {% endblock content %}

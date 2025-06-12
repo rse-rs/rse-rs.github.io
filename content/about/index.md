@@ -46,6 +46,3 @@ Please email ** to get involved.
 
 For general inquiries or to reach the organizing team, you can email us at **.
 
----
-
-Let me know if you'd like a version with different tone (e.g. more formal, more playful), or if you have specific organizer names, links, or logos to include.

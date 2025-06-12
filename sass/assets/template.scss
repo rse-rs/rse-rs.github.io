@@ -3,6 +3,14 @@
 body {
   background-color: $color-bg;
   color: $color-fg;
+  background-image: url('https://www.transparenttextures.com/patterns/45-degree-fabric-light.png');
+  background-repeat: repeat;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto; 
+  padding: 0 $spacing; 
 }
 
 .page-home,
