@@ -1,0 +1,1 @@
+.event-list{list-style:none;padding-left:0}.event-list .event-item:not(:last-child){padding-bottom:1rem;border-bottom:1px solid #ccc;margin-bottom:1rem}.event-list .event-title{font-size:1rem;font-weight:normal}.event-list .event-title .title{display:block;font-weight:bold}.event-list .event-title .separator{display:none}
