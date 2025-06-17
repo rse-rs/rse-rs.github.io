@@ -4,6 +4,7 @@ date = 2025-06-25T16:00:00+02:00
 +++
 
 <center>
+    <h2 class="subtitle"><strong>In person at PSI - OVGA-200</strong></h2> <a href="https://maps.app.goo.gl/BE1K59CMA23AsuUP8">(map)</a> <br>
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://bit.ly/rs4rse-slack">Slack Chat</a></h2>
 </center>
 
