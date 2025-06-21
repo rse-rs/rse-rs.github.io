@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Rust for RSE</title>
+    <subtitle>A Research Software Engineer Rust community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://rs4rse.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rs4rse.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-06-25T16:00:00+02:00</updated>
+    <id>https://rs4rse.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rustling Club (beginner friendly)</title>
+        <published>2025-06-25T16:00:00+02:00</published>
+        <updated>2025-06-25T16:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-06-25-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-06-25-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-06-25-rustling-club/">&lt;center&gt;
+    &lt;h2 class=&quot;subtitle&quot;&gt;&lt;strong&gt;In person at PSI - OVGA-200&lt;&#x2F;strong&gt;&lt;&#x2F;h2&gt; &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;BE1K59CMA23AsuUP8&quot;&gt;(map)&lt;&#x2F;a&gt; &lt;br&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;slack-instructions&quot;&gt;Slack instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club (beginner friendly)</title>
+        <published>2025-06-18T16:00:00+02:00</published>
+        <updated>2025-06-18T16:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-06-18-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-06-18-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-06-18-rustling-club/">&lt;center&gt;
+    &lt;h2 class=&quot;subtitle&quot;&gt;&lt;strong&gt;In person at PSI - OVGA-200&lt;&#x2F;strong&gt;&lt;&#x2F;h2&gt; &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;BE1K59CMA23AsuUP8&quot;&gt;(map)&lt;&#x2F;a&gt; &lt;br&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;slack-instructions&quot;&gt;Slack instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club</title>
+        <published>2025-06-11T16:00:00+02:00</published>
+        <updated>2025-06-11T16:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-06-11-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-06-11-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-06-11-rustling-club/">&lt;center&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;slack-instructions&quot;&gt;Slack instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club</title>
+        <published>2025-06-03T16:30:00+02:00</published>
+        <updated>2025-06-03T16:30:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-06-04-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-06-04-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-06-04-rustling-club/">&lt;center&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;slack-instructions&quot;&gt;Slack instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club</title>
+        <published>2025-05-20T17:00:00+02:00</published>
+        <updated>2025-05-20T17:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-05-20-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-05-20-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-05-20-rustling-club/">&lt;center&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;matrix-instructions&quot;&gt;Matrix instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;!-- ## Online meetup instructions --&gt;
+&lt;!----&gt;
+&lt;!-- At [19:00 CET](https:&#x2F;&#x2F;time.is&#x2F;1900_03_Jul_2025_in_Berlin&#x2F;UTC&#x2F;Baltimore&#x2F;London&#x2F;Los_Angeles&#x2F;New_York&#x2F;Lagos&#x2F;Sydney&#x2F;Kuala_Lumpur&#x2F;Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https:&#x2F;&#x2F;meet.jit.si&#x2F;RustHackAndLearnBerlin). --&gt;
+&lt;!-- It works from the browser and uses your webcam and microphone over WebRTC. --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club</title>
+        <published>2025-05-13T17:00:00+02:00</published>
+        <updated>2025-05-13T17:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-05-13-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-05-13-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-05-13-rustling-club/">&lt;center&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;matrix-instructions&quot;&gt;Matrix instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;!-- ## Online meetup instructions --&gt;
+&lt;!----&gt;
+&lt;!-- At [19:00 CET](https:&#x2F;&#x2F;time.is&#x2F;1900_03_Jul_2025_in_Berlin&#x2F;UTC&#x2F;Baltimore&#x2F;London&#x2F;Los_Angeles&#x2F;New_York&#x2F;Lagos&#x2F;Sydney&#x2F;Kuala_Lumpur&#x2F;Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https:&#x2F;&#x2F;meet.jit.si&#x2F;RustHackAndLearnBerlin). --&gt;
+&lt;!-- It works from the browser and uses your webcam and microphone over WebRTC. --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club</title>
+        <published>2025-05-07T17:00:00+02:00</published>
+        <updated>2025-05-07T17:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/_events/2025-05-07-rustling-club/"/>
+        <id>https://rs4rse.github.io/_events/2025-05-07-rustling-club/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/_events/2025-05-07-rustling-club/">&lt;center&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;matrix-instructions&quot;&gt;Matrix instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;!-- ## Online meetup instructions --&gt;
+&lt;!----&gt;
+&lt;!-- At [19:00 CET](https:&#x2F;&#x2F;time.is&#x2F;1900_03_Jul_2025_in_Berlin&#x2F;UTC&#x2F;Baltimore&#x2F;London&#x2F;Los_Angeles&#x2F;New_York&#x2F;Lagos&#x2F;Sydney&#x2F;Kuala_Lumpur&#x2F;Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https:&#x2F;&#x2F;meet.jit.si&#x2F;RustHackAndLearnBerlin). --&gt;
+&lt;!-- It works from the browser and uses your webcam and microphone over WebRTC. --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rustling Club</title>
+        <published>2025-04-30T17:00:00+02:00</published>
+        <updated>2025-04-30T17:00:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rs4rse.github.io/events/"/>
+        <id>https://rs4rse.github.io/events/</id>
+        
+        <content type="html" xml:base="https://rs4rse.github.io/events/">&lt;center&gt;
+    &lt;h2 style=&quot;display: inline-block; padding: 0 20px;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;rs4rse-slack&quot;&gt;Slack Chat&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;center&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Rust is a language empowering everyone to build reliable and efficient software.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s meet for open hacking and (co)-learning in our bi-weekly learning group!&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.&lt;&#x2F;li&gt;
+&lt;li&gt;Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t have a project yet? There are lots of ideas and cool projects floating around that you can work on!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Here are some ideas if you don&#x27;t know what to hack on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Rust &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot; title=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&quot;&gt;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;downloads.html&lt;&#x2F;a&gt; .&lt;&#x2F;li&gt;
+&lt;li&gt;Read the Rust book &lt;a href=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot; title=&quot;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&quot;&gt;https:&#x2F;&#x2F;doc.rust-lang.org&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Complete Rustlings (a great beginners course!) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot; title=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bring your ideas, questions &amp;amp; projects and let&#x27;s meet.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you work on this week?&lt;&#x2F;li&gt;
+&lt;li&gt;What problems did you solve this week with Rust?&lt;&#x2F;li&gt;
+&lt;li&gt;Are you just learning Rust and want some topic explained?&lt;&#x2F;li&gt;
+&lt;li&gt;Found an interesting crate you want to talk about?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.
+Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;matrix-instructions&quot;&gt;Matrix instructions&lt;&#x2F;h2&gt;
+&lt;p&gt;See &lt;a href=&quot;&#x2F;chat&#x2F;&quot;&gt;Chat instructions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;!-- ## Online meetup instructions --&gt;
+&lt;!----&gt;
+&lt;!-- At [19:00 CET](https:&#x2F;&#x2F;time.is&#x2F;1900_03_Jul_2025_in_Berlin&#x2F;UTC&#x2F;Baltimore&#x2F;London&#x2F;Los_Angeles&#x2F;New_York&#x2F;Lagos&#x2F;Sydney&#x2F;Kuala_Lumpur&#x2F;Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https:&#x2F;&#x2F;meet.jit.si&#x2F;RustHackAndLearnBerlin). --&gt;
+&lt;!-- It works from the browser and uses your webcam and microphone over WebRTC. --&gt;
+</content>
+        
+    </entry>
+</feed>
